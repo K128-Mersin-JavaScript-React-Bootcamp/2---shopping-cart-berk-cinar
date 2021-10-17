@@ -1,0 +1,95 @@
+.loginLayout {
+    height: 90vh;
+    width:100%;
+    background:#F0F2F5;
+    
+    
+}
+
+.firstCol{
+    
+    height: 70vh;
+    width: 30%;
+    margin-top: 20vh;
+}
+
+.secondCol {
+    
+    height: 90vh;
+    width: 30%;
+    margin: 0;
+    position: absolute;
+    background-color: rgb(97, 20, 220);
+}
+
+.text {
+    font-family: SFProDisplay-Regular, Helvetica, Arial, sans-serif;
+    font-size: 28px;
+    font-weight: normal;
+    line-height: 32px;
+    width: 500px;
+    margin-right: 50px;
+}
+
+.table {
+    text-align: center;
+    background: #FFFFFF ;
+    width: 400px;
+    height: 360px;;
+    border-radius: 5px;
+    margin-top: 50%;
+    box-shadow: rgba(0, 0, 0, 0.25) 0px 5px 15px;
+}
+
+.input{
+    width:360px;
+    height: 50px;
+    margin-top: 20px;
+    font-size: 18px;
+}
+
+.logo{
+    width: 22em;
+}
+
+
+.button{
+    background: #166FE5;
+    color: white;
+    width:360px;
+    height: 50px;
+    margin-left:20px;
+    margin-top:20px;
+    font-size: 20px;
+    margin-bottom: 20px;
+    font-weight: bold;
+}
+
+.button2 {
+    background: #4cb637;
+    color: white;
+    border-radius: 7px;
+    width:240px;
+    height: 50px;
+    margin-left:20px;
+    margin-top:20px;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.hr{
+    width: 350px;
+    color: #bdbdbd;
+}
+
+.buttext{
+    margin-top: 30px;;
+    white-space: nowrap;
+    width: 330px;
+    margin-left: 60px;;
+}
+
+.create{
+    display: inline-block;
+    font-weight: bold;
+}

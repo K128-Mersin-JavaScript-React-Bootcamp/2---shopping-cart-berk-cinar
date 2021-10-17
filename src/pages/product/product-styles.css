@@ -1,0 +1,31 @@
+
+.detailCard {
+    margin: 5vh;
+    height: 50vh;
+     width: 100vh;
+     border-width: 1px;
+     border-color: black;
+     border-radius: 2%;
+  }
+
+  .card-img {
+      max-width: 40vh;
+    max-height: 45vh;
+    object-fit: cover;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.button {
+    border-radius: 1vh;
+    width: 15vh;
+    height: 5vh;
+    background-color:black;
+    color: white;
+    margin-top:2vh;
+    margin-left: 6%;
+    display: inline-block;
+
+}
